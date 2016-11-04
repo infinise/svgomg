@@ -139,6 +139,18 @@
     {
       "id": "transformsWithOnePath",
       "name": "Optimise single-path SVG"
+    },
+    {
+      "id": "removeExtraAttrs",
+      "name": "Remove even more attributes"
+    },
+    {
+      "id": "removeBoundsElement",
+      "name": "Remove bounds element"
+    },
+    {
+      "id": "widthHeightToViewbox",
+      "name": "Convert dimensions to viewBox"
     }
   ]
 }
