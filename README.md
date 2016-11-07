@@ -4,7 +4,7 @@
 
 # This fork
 
-Uses [infinise/svgo](github.com/infinise/svgo) with some extra plugins.
+Uses [infinise/svgo](https://github.com/infinise/svgo) with some extra plugins.
 
 # Feature requests
 
